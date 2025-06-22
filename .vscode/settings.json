@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "llalloc.h": "c",
+        "cstdint": "c"
+    }
+}
