@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "llalloc.h": "c",
-        "cstdint": "c"
+        "cstdint": "c",
+        "budalloc.h": "c",
+        "binalloc.h": "c",
+        "stdlib.h": "c",
+        "list.h": "c"
     }
 }
